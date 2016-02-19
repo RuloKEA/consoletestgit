@@ -10,6 +10,7 @@ namespace ConsoleApplication1Gittest
     {
         static void Main(string[] args)
         {
+            Console.Write("heleo");
         }
     }
 }
